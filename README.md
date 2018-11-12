@@ -11,7 +11,7 @@ Reiv has 3 lives, each with a health monitor. If the health falls to 0 Reiv dies
 
 ## Game play
 ![alt text](https://github.com/priyanka1706/Reiv-Vs-The-Gliders/blob/master/ReivVsTheGlidersGamePlay.jpg)
-
+This is a screenshot from the final game, which can be found under V3 in Builds folder.
 
 ## Key Features
 Key Features pf the game include: 
